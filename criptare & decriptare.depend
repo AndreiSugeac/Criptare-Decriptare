@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1546469820 source:c:\users\user\desktop\proiectpp\proiectpp\criptare & decriptare\criptare & decriptare\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cod.h"
+
+1546469820 c:\users\user\desktop\proiectpp\proiectpp\criptare & decriptare\criptare & decriptare\cod.h
+
+1546592862 source:c:\users\user\desktop\proiectpp\proiectpp\criptare & decriptare\criptare & decriptare\cod.c
+	<stdio.h>
+	<stdlib.h>
+
